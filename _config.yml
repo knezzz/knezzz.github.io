@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            knezzz
+tagline:          'knezzz github page'
+description:      'Knezzz github home page. Page is made using Jekyll and Hyde. Made by <a href="https://twitter.com/knezzz" target="_blank">@knezzz</a>.'
+url:              http://github.com/knezzz
+baseurl:          /
+
+author:
+  name:           'Luka Knezic'
+  url:            https://twitter.com/knezzz
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/knezzz
